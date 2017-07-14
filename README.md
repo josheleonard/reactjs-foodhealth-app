@@ -1,4 +1,4 @@
-# react-toolbox-example
+# react-toolbox example of a recipe app
 
 ### Getting Started
 1. Clone this repository
