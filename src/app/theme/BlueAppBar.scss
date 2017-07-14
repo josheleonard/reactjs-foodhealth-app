@@ -1,0 +1,14 @@
+
+$tropical-blue: #ACC9EB;
+$white: #fff;
+
+.appBar {
+  background-color: $tropical-blue;
+
+  > svg {
+    width: 3.4rem;
+    height: 3.4rem;
+    margin-right: 1rem;
+    fill: $white;
+  }
+}
